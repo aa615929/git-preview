@@ -1,3 +1,3 @@
 let a = 2;
-let feature = 1;
 let b = 3;
+let c = 4;
